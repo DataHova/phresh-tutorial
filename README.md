@@ -28,6 +28,7 @@ The technology stack used to create the backend of this application is as follow
     - vscode
 
 
+
 ## Roadmap and Completed Articles
 
 ✅ - Completed
